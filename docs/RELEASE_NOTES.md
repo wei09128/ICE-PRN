@@ -1,4 +1,4 @@
-# GitHub release preparation — 23 October 2026
+# Repository notes — 23 October 2026
 
 - Includes the revised JCIM manuscript and SI drafts, figure layout v5.12 and proposed replacement TOC artwork.
 - Four main figures and three supplementary figures; two SI tables. Full secondary grids and mixed results are retained.
@@ -8,4 +8,4 @@
 - No source-data values, statistical models or uncertainty families were changed while preparing this repository.
 - The private cover letter, credentials, raw large matrices and unrelated project branches are excluded.
 
-This is a prepared repository snapshot, not a published GitHub repository or tagged release. Repository URL, release tag, author license choice and permanent citation identifier remain unset.
+Repository: https://github.com/wei09128/ICE-PRN. A release tag, code license and permanent citation identifier have not been assigned. Internal writing guidance, editorial instructions and the obsolete publishing guide were removed; scientific inputs, contracts, archived results and validation records are retained.
