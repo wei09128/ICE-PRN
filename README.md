@@ -44,6 +44,6 @@ The p53 target-annotation association attenuates after matching on untreated exp
 
 Research snapshot: 23 October 2026; figure layout v5.12. The manuscript is a draft with author/submission details still to finalize. No publication DOI or permanent software identifier has been assigned in this release; cite the paper after publication and the exact repository commit used.
 
-No new open-source license is assigned by this preparation step. The author must choose a code license before advertising reuse permissions. Third-party data and annotation snapshots retain their original terms and attribution; inclusion does not relicense them. `figure_runner/SOURCES.md` and the manuscript references identify sources.
+Original ICE-PRN code and software documentation are available under the [MIT License](LICENSE). This license does not relicense manuscript text, third-party code, datasets or annotation snapshots; those retain their applicable rights, terms and attribution. `figure_runner/SOURCES.md` and the manuscript references identify data and annotation sources.
 
 Candidate discovery, CARNIVAL, treatment ranking and the paused T-cell branch are outside this release. Older research outputs are retained as history, not promoted to current conclusions.

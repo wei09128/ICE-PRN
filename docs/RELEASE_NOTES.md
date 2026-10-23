@@ -8,4 +8,4 @@
 - No source-data values, statistical models or uncertainty families were changed while preparing this repository.
 - The private cover letter, credentials, raw large matrices and unrelated project branches are excluded.
 
-Repository: https://github.com/wei09128/ICE-PRN. A release tag, code license and permanent citation identifier have not been assigned. Internal writing guidance, editorial instructions and the obsolete publishing guide were removed; scientific inputs, contracts, archived results and validation records are retained.
+Repository: https://github.com/wei09128/ICE-PRN. Original code and software documentation are licensed under MIT; manuscript text and third-party material are excluded from that grant. A release tag and permanent citation identifier have not been assigned. Internal writing guidance, editorial instructions and the obsolete publishing guide were removed; scientific inputs, contracts, archived results and validation records are retained.

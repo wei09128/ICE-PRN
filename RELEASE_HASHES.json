@@ -1,13 +1,13 @@
 {
   ".gitignore": "4de7236fd5f81a3574f9df05c01ee9b8790cb72dd2474312633c86310203d31b",
-  "README.md": "8c9efe242f6fdf013c5e6fc077994a982f5134b40ea5ae03702ac9a4bcad713d",
+  "README.md": "003aeae669dbd2b12ec2ad877dc7b05c3d421e6b8686a989f6061256c6f4f346",
   "VALIDATION.json": "4b19049cda02242daa75370950ac9fed48640175440fc05fa2a3ed828af66fe5",
   "analysis_packages/ICE_PRN_DRUG_READOUT_MATCHING_v1.zip": "a6e10c000c3537b9bfc18d10821dde4ff113662fc83d50f852c0f44e82341ade",
   "analysis_packages/ICE_PRN_ESTROGEN_READOUT_SETS_v1.zip": "2979b6ae6119eb1a610c2e6cbb7e0f6a1b8e88ef74208c9f258ef53890500fbf",
   "analysis_packages/ICE_PRN_ESTROGEN_READOUT_TEST_v1.zip": "bcb6bf0cf9cb24bda00557b8d0acb51d2ea4f47be8df9d2326d0774bea5148d4",
   "analysis_packages/ICE_PRN_RANK_P53_READOUT_v1.zip": "7667a91558d99df9c6b0b6a62f27c0526abb939b6ad7bc9be0ec57053b58aac1",
   "analysis_packages/ICE_PRN_RIBOSOMAL_P53_TEST_v1.zip": "36c2b33e7be69dce0502b9ca2f1821bcfe6ebb1e182509aef45ee073cf2d4d44",
-  "docs/RELEASE_NOTES.md": "6d8ec6154925fdddca445866e023e2ec2fe8191dbe9ef0a0a050ac8187984e26",
+  "docs/RELEASE_NOTES.md": "f690d83b82addf6e83069ae7e2fb8167b9e466d410f1eba0aef7bc0206e50718",
   "docs/REPRODUCIBILITY.md": "c64273b566dddd4cb8522aeaa0324bfcd5fcf1fc1d1ea315aeb61eb86ed4e3e3",
   "figure_runner/EDITORIAL_AUDIT.json": "08d1b6fe9e2ffb6c026af2f820b2152351be53cda3fde3d10856a6eb3564d99f",
   "figure_runner/Figure_captions.md": "13bed874cc2f1376a1363941f4483293d4ed49b373d818bfe9386a0ee57e50e8",
@@ -155,5 +155,6 @@
   "requirements.txt": "5c81b896364e934a3f3615af5bc45ee91b97ca56e67e800bb83365b14e47f3a8",
   "toc/README.md": "806a735aa13237243a1b11315303c2080c7805aed9aff6c3df5f61d9c80f6a70",
   "toc/build_toc.py": "d456692c9e54a74d6fb64201ca909aec97bf8a3dc36dac6e708e34b5d7277a1e",
-  "verify_release.py": "dae8520b643c21ca45c1a1f526f1d7272eb15e0aa1c4a700c43721734403f9d0"
+  "verify_release.py": "dae8520b643c21ca45c1a1f526f1d7272eb15e0aa1c4a700c43721734403f9d0",
+  "LICENSE": "d318804d1977c9819a21d59fbf3f54448aec47668a26b142e02000e9232027d4"
 }
