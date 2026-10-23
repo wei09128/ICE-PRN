@@ -1,0 +1,30 @@
+{
+  "status": "COMPLETE_EXPLORATORY_CONTEXT_COMPARISON",
+  "identities_per_comparison": 4185,
+  "paired_reference_comparisons": 2,
+  "labels_use_strict_zero_threshold_no_tuning": true,
+  "stable_counts": {
+    "PC3_vs_RWPE1": {
+      "MCF7_only": 289,
+      "PC3_only": 266,
+      "both": 719,
+      "neither": 272,
+      "uncertain": 2639
+    },
+    "prostate_tumor_vs_adjacent_15pairs": {
+      "MCF7_only": 249,
+      "PC3_only": 251,
+      "both": 779,
+      "neither": 292,
+      "uncertain": 2614
+    }
+  },
+  "interpretation": "Reference-specific transcriptional opposition, not treatment efficacy or a pure drug-by-cancer interaction",
+  "gene_universes": "Original reference-specific masks retained; scores are not calibrated effect sizes across contexts",
+  "limitations": [
+    "Both halves reuse experiments; agreement is technical rather than biological validation",
+    "The PC3 reference is unreplicated and disagrees with patient tissue; comparisons stay separate",
+    "MCF7_higher/PC3_higher is relative score preference; either score can be negative",
+    "Pattern labels use the same data shown; no separate group-enrichment significance is claimed"
+  ]
+}

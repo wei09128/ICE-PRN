@@ -1,0 +1,30 @@
+{
+  "status": "CONDITIONAL_DEVELOPMENT_SENSITIVITY_COMPLETE",
+  "draws": 10000,
+  "seeds": [
+    20261016,
+    20261017,
+    20261018
+  ],
+  "source_archive_sha256": "6a2b20095e9658b4ae54a0584d8454c4fac592872a848eaacebed1c874453de4",
+  "plan_sha256": "f587cfb59abb96e2d133d0cb8f67b419fbc1f77ad166aa63a0374d852173e0b1",
+  "script_sha256": "39ec0c4b3fa78d45368b285db05b60647153bdcddf0da86271cf46f85ca985ec",
+  "matched_B2": {
+    "estimate": 0.10412147505422993,
+    "lower": 0.036550848415280404,
+    "upper": 0.17035476763180094,
+    "n_cases": 461,
+    "n_components": 145,
+    "max_component_cases": 48,
+    "max_distance": 2.2040259900376404,
+    "scope": "Conditional on fixed matching and predictions; dependency-component resampling; no rematching or shared-control uncertainty"
+  },
+  "unmatched_B2": {
+    "estimate": 0.1577988527599139,
+    "lower": 0.09973775278059532,
+    "upper": 0.21507860030701195,
+    "n_target_clusters": 1630
+  },
+  "TREM2": "BIOLOGICAL_CI_UNAVAILABLE_NO_GENE_AS_REPLICATE_BOOTSTRAP",
+  "conditioning": "Fixed fitted models, rankings, subsets, matching, shared controls and development choices; no biological-replicate uncertainty"
+}

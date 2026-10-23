@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "references": 43,
+  "reference_entries_unchanged_from_v5_9": true,
+  "all_references_cited": true,
+  "first_appearance_order_verified": true,
+  "S2_and_S3_introduced_in_Results": true,
+  "references_7_and_22_verified_and_retained": true
+}

@@ -1,0 +1,21 @@
+{
+  "status": "COMPLETE_EXPLORATORY_REVIEW_REQUIRED",
+  "new_models_fitted": false,
+  "seed": 2026102306,
+  "draws": 10000,
+  "group_sizes": {
+    "ribosome": 72,
+    "nonmember": 1796,
+    "unmapped_excluded": 6
+  },
+  "primary_family": 2,
+  "secondary_family": 12,
+  "parity": {
+    "original_80_anchor_checks": true,
+    "original_44_rank_checks": true,
+    "all_12_pooled_contrasts": true
+  },
+  "contract_sha256": "240e3a1392b29fe06d42dcb574ef2b0a8a0413051a92e3a6c5fb7db4f2e565dd",
+  "input_return_sha256": "30a973599b9c31deba40892f965d00495b4aef86999ab358f72995bf001541d0",
+  "measurement_properties_matched": false
+}

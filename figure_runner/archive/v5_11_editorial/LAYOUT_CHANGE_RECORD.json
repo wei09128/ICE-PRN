@@ -1,0 +1,14 @@
+{
+  "version": "5.5",
+  "change": "Add per-chemical exploratory opposition as S4 and wire into build_all.py",
+  "unchanged": "Figures 1\u20133 and S1\u2013S3 including current Figure 3D",
+  "output_figures": 7,
+  "graphics": 21,
+  "models_refitted": false,
+  "new_significance_tests": false,
+  "pending": [
+    "independent functional viability validation",
+    "prediction of destination opposition scores",
+    "toxicity/selectivity controls"
+  ]
+}

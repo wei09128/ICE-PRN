@@ -1,0 +1,36 @@
+{
+  "status": "COMPLETE_EXPLORATORY_REVIEW_REQUIRED",
+  "model_retuned": false,
+  "biological_replication_established": false,
+  "n_genes": 978,
+  "annotation_coverage": {
+    "prostate_cancer": 23,
+    "breast_cancer": 33
+  },
+  "outcome_counts": {
+    "MCF7_to_PC3": {
+      "rescued": 925,
+      "persistent_failure": 14,
+      "both_success": 4,
+      "other": 35
+    },
+    "PC3_to_MCF7": {
+      "rescued": 934,
+      "persistent_failure": 3,
+      "both_success": 4,
+      "other": 37
+    }
+  },
+  "primary_comparisons": 4,
+  "bootstrap_draws": 5000,
+  "unresolved_primary_intervals": 1,
+  "original_fits_replayed": 20,
+  "parity_checks": 100,
+  "response_sha256": "24e24107a57a60d487a8960c7e85f5b70c0a04aa8c77bb522736847342420b03",
+  "limitations": [
+    "Cancer-pathway membership is not cell-line-specific activity or disease causality",
+    "Conditional resampling over chemical identities; no biological replication",
+    "No adjustment for expression abundance, response size or gene reliability",
+    "Gene dependence precludes independent-gene enrichment interpretation"
+  ]
+}

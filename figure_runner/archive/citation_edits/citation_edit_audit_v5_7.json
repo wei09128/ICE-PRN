@@ -1,0 +1,86 @@
+{
+  "source": "ICE_PRN_manuscript_v5.3_drug_pathway_updated.docx",
+  "output": "ICE_PRN_manuscript_v5.3_streamlined_citations.docx",
+  "references_before": 45,
+  "removed_old_references": {
+    "33": "33. D’Alessio AC, Fan ZP, Wert KJ, et al. A systematic approach to identify candidate transcription factors that control cell identity. Stem Cell Reports 2015;5:763–775. doi:10.1016/j.stemcr.2015.09.016.",
+    "34": "34. Corsello SM, Bittker JA, Liu Z, et al. The Drug Repurposing Hub: a next-generation drug library and information resource. Nat Med 2017;23:405–408. doi:10.1038/nm.4306."
+  },
+  "added_reference_old_label": 46,
+  "references_after": 44,
+  "citation_groups_checked": 53,
+  "old_to_new": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30,
+    "31": 31,
+    "32": 32,
+    "35": 33,
+    "46": 34,
+    "39": 35,
+    "40": 36,
+    "41": 37,
+    "42": 38,
+    "43": 39,
+    "44": 40,
+    "45": 41,
+    "36": 42,
+    "37": 43,
+    "38": 44
+  },
+  "changes": [
+    {
+      "before": "Improved prediction within cancer-pathway readouts does not establish disease-specific activity or treatment benefit. Expression-based drug prioritization often assumes that a compound’s signature in one cell line represents its effect elsewhere, yet copied chemical signatures were worse than the destination average in both directions. In an exploratory analysis of observed responses, we scored each chemical identity against external cancer-versus-reference expression contrasts for MCF7 and PC3.36,37 Many compounds with consistent technical patterns opposed the reference in only one line, although the counts depended on the prostate reference: replacing the cell-line reference with paired tumor-versus-adjacent tissue38 changed them, and the two prostate references were essentially uncorrelated (Fig. S4). Copying signatures across contexts could therefore misrank candidates. Opposition scores do not establish phenotype reversal or cancer-selective efficacy; independent viability assays with matched nonmalignant controls are needed, and whether learned transfer improves prediction of destination opposition over copying or the destination mean remains untested.",
+      "after": "Chemical transfer gains concern expression prediction, not treatment benefit. Reference-opposition scores varied by cell line and prostate reference (Fig. S3), limiting their interpretation as cancer selectivity. A disease-context test could ask whether a WT treatment response predicts the response in AD-model mice, comparing no effect, copying and a scaled copy fitted on training data. D-45113 provides such a setting, but its effects on microglial abundance also require separating cell composition from regulation.46 Whether learned transfer improves prediction of destination opposition remains untested."
+    },
+    {
+      "removed": "External identity TF and drug-mechanism annotations"
+    },
+    {
+      "removed": "We used the union of the top ten candidate core TFs in each of 233 cell/tissue columns from D’Alessio et al. Table S1.33 Exact unambiguous saved-symbol mapping retained 21 candidate and 43 other atlas-scored TF targets; three ambiguous target memberships were excluded. Twenty thousand target-cluster resamples (seed 2026102103) retained both directions and fixed labels. No matching was performed. Erythroid sets covered only two or three benchmark targets, and the RPE validation panel covered none, so no lineage-specific test was run."
+    },
+    {
+      "removed": "The dated Broad Repurposing Hub snapshot (24 March 2020)34 supplied exact-name mechanism annotations. Identity groups inherited the union of member annotations. Sixteen classes had at least 20 member and 20 other annotated identities before outcome inspection. Missing annotation was excluded from coverage denominators. Group labels required copy and learned error to agree against the destination mean in both orientations. Two-sided Fisher tests compared rescued and persistent groups separately with both-success for each class and direction, with Bonferroni correction over all 64 contrasts. Conservative 95% family bounds used Clopper–Pearson limits on both proportions and a union bound over 128 limits."
+    },
+    {
+      "before": "The accompanying v5.6 figure package rebuilds Figures 1–3 and S1–S4 from saved results. Source tables include p53 matching, identity-TF coverage, LINCS predictive losses, the complete rank curve, frozen mechanism contrasts, identity-program contrasts, archived cancer-pathway coverage, continuous pathway prediction losses and intervals, and per-chemical opposition scores (Supplementary Data 1). Analysis archives preserve fitting and uncertainty code, reference mappings, contracts and hashes. Cancer expression references are deposited under GSE71862, GSE23388 and GSE69223. Source studies and accessions are listed in the references and legends; large response arrays remain in the original analysis environment.",
+      "after": "The accompanying v5.7 figure package rebuilds Figures 1–3 and S1–S3 from saved results. Source data include predictive losses, rank curves, p53 matching, identity-program contrasts, continuous cancer-pathway prediction losses and intervals, and per-chemical opposition scores (Supplementary Data 1). Analysis archives preserve fitting and uncertainty code, mappings, contracts, hashes and superseded annotation analyses. Cancer expression references are deposited under GSE71862, GSE23388 and GSE69223. Large response arrays remain in the original analysis environment."
+    },
+    {
+      "before": "Figure S4. Per-chemical reference-opposition patterns across MCF7 and PC3. Each point is one of 4,185 chemical identities. X: negative Spearman correlation of the observed MCF7 drug response with the MCF7-versus-MCF10A signed expression reference (963 measured landmarks). Y: the corresponding score for the observed PC3 response against PC3-versus-RWPE1 (968 landmarks, top row) or a separate primary-prostate-tumor-versus-adjacent-tissue reference from 15 patient pairs (960 landmarks, bottom row). Left/right panels show technical half 0/1. Positive scores indicate opposition and negative scores indicate reinforcement of the specified reference. Colors require the same strict score-sign quadrant in both halves: MCF7-only opposition, PC3-only opposition, opposition in both, or opposition in neither; disagreement, exact zero or missing scores are uncertain. Classification uses both displayed halves and is not an independent validation of colored groups. Both reference comparisons retain all identities. The PC3/RWPE1 comparison gives 289, 266, 719, 272 and 2,639 identities in these five categories; the tissue-reference comparison gives 249, 251, 779, 292 and 2,614. PC3/RWPE1 has one deposited expression sample per line, and the tissue signature is not a PC3 disease state. The prostate reference effects show essentially no concordance (descriptive Spearman -0.0105). Original reference-specific gene masks are retained; scores are not calibrated efficacy differences. All results are exploratory and conditional on fixed references and technical splits; no significance threshold, independent biological replication, phenotype reversal or treatment selectivity is established. Source data and uncertainty limits are supplied with the code.",
+      "after": "Figure S3. Per-chemical opposition to cancer expression references. Each point is one of 4,185 chemical identities. Axes show negative Spearman correlations between observed chemical responses and external cancer-versus-reference contrasts: MCF7 versus MCF10A on x; PC3 versus RWPE1 (top) or prostate tumor versus paired adjacent tissue (bottom) on y. Columns show technical halves. Colors require the same score-sign quadrant in both halves; disagreement, zero or missing scores are uncertain. Positive scores indicate opposition, not phenotype reversal. Masks retain 963 breast, 968 prostate cell-line and 960 prostate tissue landmarks. PC3/RWPE1 has one sample per line; the tissue reference uses 15 patient pairs. The prostate references were essentially uncorrelated (Spearman −0.0105). Reference and cell-composition differences limit interpretation. Categories use both displayed halves and provide no independent validation or evidence of treatment selectivity; Methods and source data give full counts and definitions."
+    },
+    {
+      "before": "45. Field CA, Welsh AH. Bootstrapping clustered data. J R Stat Soc Series B Stat Methodol 2007;69:369-390. doi:10.1111/j.1467-9868.2007.00593.x.",
+      "after": "46. Henningfield CM, Soni N, Lee RW, Sharma R, Cleland JL, Green KN. Selective targeting and modulation of plaque associated microglia via systemic hydroxyl dendrimer administration in an Alzheimer’s disease mouse model. Alzheimers Res Ther 2024;16:101. doi:10.1186/s13195-024-01470-3."
+    }
+  ],
+  "new_AD_results_added": false
+}

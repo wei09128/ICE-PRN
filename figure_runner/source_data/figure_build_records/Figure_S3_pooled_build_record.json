@@ -1,0 +1,52 @@
+{
+  "status": "COMPLETE_EXPLORATORY_POOLED_DESCRIPTIVE",
+  "chemical_identities": 4185,
+  "averaging": "Opposite technical-half response vectors averaged equally before Spearman scoring; not a mean of correlations",
+  "new_models_fitted": false,
+  "new_significance_tests": false,
+  "summary": [
+    {
+      "prostate_reference": "PC3_vs_RWPE1",
+      "n": 4185,
+      "median_MCF7": 0.0319843052421483,
+      "median_PC3": 0.0285865434543583,
+      "median_paired_difference": 0.0030413833357204045,
+      "mean_paired_difference": 0.003592033466170109,
+      "MCF7_higher": 2141,
+      "PC3_higher": 2044,
+      "tied": 0,
+      "MCF7_positive": 2670,
+      "PC3_positive": 2651,
+      "both_positive": 1790,
+      "MCF7_only_positive": 880,
+      "PC3_only_positive": 861,
+      "both_negative": 654,
+      "zero_score": 0,
+      "independence_expected_opposite_fraction": 0.46316893839150747,
+      "independence_expected_both_positive_fraction": 0.4041383503980336,
+      "observed_opposite_fraction": 0.4160095579450418
+    },
+    {
+      "prostate_reference": "prostate_tumor_vs_adjacent_15pairs",
+      "n": 4185,
+      "median_MCF7": 0.0319843052421483,
+      "median_PC3": 0.0253369281632855,
+      "median_paired_difference": 0.010995124177593601,
+      "mean_paired_difference": 0.009224750297103086,
+      "MCF7_higher": 2284,
+      "PC3_higher": 1901,
+      "tied": 0,
+      "MCF7_positive": 2670,
+      "PC3_positive": 2674,
+      "both_positive": 1821,
+      "MCF7_only_positive": 849,
+      "PC3_only_positive": 853,
+      "both_negative": 662,
+      "zero_score": 0,
+      "independence_expected_opposite_fraction": 0.4616521713064666,
+      "independence_expected_both_positive_fraction": 0.40764464314007615,
+      "observed_opposite_fraction": 0.4066905615292712
+    }
+  ],
+  "interpretation": "Reference-specific score distributions and paired sign patterns; not cancer-selective efficacy or a pure cancer interaction"
+}

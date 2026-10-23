@@ -1,0 +1,38 @@
+[
+  {
+    "set": "WELCH_GATA1_TARGETS",
+    "meaning": "erythroid GATA1-responsive program; mouse source, curated human mappings",
+    "url": "https://www.gsea-msigdb.org/gsea/msigdb/human/geneset/WELCH_GATA1_TARGETS.html",
+    "human_members": 25,
+    "page_sha256": "00dc3d43c7fa12da2cf2179ed0b574bd2377dc3eed0392c3d52f5feb2f8b2623",
+    "members_sha256": "354bada568cd37b73ab05cd04b90367fa55bbedb88c792be5200d8401a32e9d6",
+    "retrieved_utc": "2026-10-20T21:17:38.713174+00:00"
+  },
+  {
+    "set": "HALLMARK_HEME_METABOLISM",
+    "meaning": "heme/erythroblast program; not lineage-specific",
+    "url": "https://www.gsea-msigdb.org/gsea/msigdb/human/geneset/HALLMARK_HEME_METABOLISM.html",
+    "human_members": 200,
+    "page_sha256": "e71f69018a1a26361df22c8b5a674ba86b26ae729bd40ef929271abb134edc7b",
+    "members_sha256": "c1638a98c6e35176a4569ccfaee55df7c1c858ba18bfa1c2337cc3b08b9ac8f4",
+    "retrieved_utc": "2026-10-20T21:17:38.756932+00:00"
+  },
+  {
+    "set": "HALLMARK_APICAL_JUNCTION",
+    "meaning": "junction organization; not an RPE1-specific identity signature",
+    "url": "https://www.gsea-msigdb.org/gsea/msigdb/human/geneset/HALLMARK_APICAL_JUNCTION.html",
+    "human_members": 200,
+    "page_sha256": "f653ca9981cc96fba08ad3845861d95488e2025a949bb4dff6c9484ce8654399",
+    "members_sha256": "03059ee35114efe5b171a3719e8997bd06d98383199f2987f7cd484800516119",
+    "retrieved_utc": "2026-10-20T21:17:38.724830+00:00"
+  },
+  {
+    "set": "HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION",
+    "meaning": "secondary EMT-state sensitivity; not epithelial identity",
+    "url": "https://www.gsea-msigdb.org/gsea/msigdb/human/geneset/HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION.html",
+    "human_members": 200,
+    "page_sha256": "201a48bf19ef2eac584cd5d2cf555f594f5295e3329342ecac912f93dab84e69",
+    "members_sha256": "1c87950b480eae0c0741ae68bc53bc5326bd87e901467b2af2cf128c901f73e3",
+    "retrieved_utc": "2026-10-20T21:17:38.801168+00:00"
+  }
+]

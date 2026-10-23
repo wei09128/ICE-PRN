@@ -1,0 +1,20 @@
+{
+  "status": "COMPLETE_EXPLORATORY_REVIEW_REQUIRED",
+  "exploratory": true,
+  "model_retuned": false,
+  "biological_mechanism_established": false,
+  "contract_sha256": "52613ab0987dc1d972662f580fed7300611536ac957e17675ddbba848348e097",
+  "mask_sha256": "8e8293b97947da63f8bb92d84a89c28d3cb6221b970e0d6aa6e64922287b92cd",
+  "bootstrap_draws": 10000,
+  "seed": 2026102304,
+  "primary_family_size": 12,
+  "readout_counts": {
+    "all": 7226,
+    "p53": 134,
+    "complement": 7090
+  },
+  "original_anchor_checks": 80,
+  "original_rank_vector_checks": 44,
+  "targets": 1874,
+  "original_models_sha256": "b13f5e0b70bc2f4c952477247caeb52c17689451fcbb9ad5d9ae2f621fa4e75b"
+}

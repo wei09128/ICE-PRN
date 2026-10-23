@@ -1,0 +1,20 @@
+{
+  "status": "COMPLETE_EXPLORATORY_REVIEW_REQUIRED",
+  "model_retuned": false,
+  "biological_replication_established": false,
+  "exploratory": true,
+  "mode": "saved_identity_gene_cache",
+  "source_cache_sha256": "34211290ef12eee239cc219ac3e255807d95e9ec90ccda15264d2c04ae65138a",
+  "cached_replay_source_hash": "24e24107a57a60d487a8960c7e85f5b70c0a04aa8c77bb522736847342420b03",
+  "cache_original_checks": 100,
+  "cache_additional_identity_loss_checks": 4,
+  "models_replayed": 0,
+  "draws": 10000,
+  "seed": 2026102213,
+  "primary_endpoints": 4,
+  "pathway_counts": [
+    23,
+    33
+  ],
+  "archived_point_checks": 12
+}

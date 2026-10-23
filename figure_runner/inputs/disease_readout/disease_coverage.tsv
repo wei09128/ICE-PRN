@@ -1,0 +1,17 @@
+direction	disease	group	disease_genes	all_genes	coverage
+MCF7_to_PC3	prostate_cancer	rescued	22	925	0.023783783783783784
+MCF7_to_PC3	prostate_cancer	persistent_failure	0	14	0.0
+MCF7_to_PC3	prostate_cancer	both_success	1	4	0.25
+MCF7_to_PC3	prostate_cancer	other	0	35	0.0
+MCF7_to_PC3	breast_cancer	rescued	31	925	0.03351351351351351
+MCF7_to_PC3	breast_cancer	persistent_failure	0	14	0.0
+MCF7_to_PC3	breast_cancer	both_success	2	4	0.5
+MCF7_to_PC3	breast_cancer	other	0	35	0.0
+PC3_to_MCF7	prostate_cancer	rescued	22	934	0.023554603854389723
+PC3_to_MCF7	prostate_cancer	persistent_failure	0	3	0.0
+PC3_to_MCF7	prostate_cancer	both_success	0	4	0.0
+PC3_to_MCF7	prostate_cancer	other	1	37	0.02702702702702703
+PC3_to_MCF7	breast_cancer	rescued	32	934	0.034261241970021415
+PC3_to_MCF7	breast_cancer	persistent_failure	0	3	0.0
+PC3_to_MCF7	breast_cancer	both_success	0	4	0.0
+PC3_to_MCF7	breast_cancer	other	1	37	0.02702702702702703

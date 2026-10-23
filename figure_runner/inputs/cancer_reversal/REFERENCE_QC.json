@@ -1,0 +1,33 @@
+{
+  "MCF7_vs_MCF10A": {
+    "measured_genes": 963,
+    "up": 399,
+    "down": 564,
+    "zero": 0,
+    "role": "cell_line_reference",
+    "replication": "3_vs_3_study_replicates"
+  },
+  "PC3_vs_RWPE1": {
+    "measured_genes": 968,
+    "up": 527,
+    "down": 436,
+    "zero": 5,
+    "role": "cell_line_reference",
+    "replication": "1_vs_1_UNREPLICATED_DESCRIPTIVE"
+  },
+  "prostate_tumor_vs_adjacent_15pairs": {
+    "measured_genes": 960,
+    "up": 506,
+    "down": 454,
+    "zero": 0,
+    "role": "external_tissue_proxy",
+    "replication": "15_patient_pairs_not_PC3"
+  },
+  "prostate_reference_agreement": {
+    "common_genes": 950,
+    "spearman_descriptive": -0.010539064503547604,
+    "nonzero_sign_agreement": 0.49894736842105264,
+    "not_independent_gene_inference": true
+  },
+  "breast_author_q_le_005": 381
+}

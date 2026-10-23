@@ -1,0 +1,43 @@
+{
+  "status": "VALIDATED_COMPLETE_EXPLORATORY_RANK_GRID",
+  "original_anchor_checks": 80,
+  "max_anchor_absolute_loss_difference": 4.163336342344337e-17,
+  "bootstrap_replay": "All 22 metric rows and all 12 paired interval rows match at 1e-12",
+  "targets": 1874,
+  "constructs": 1977,
+  "readouts": 7226,
+  "methods": 11,
+  "ranks": [
+    0,
+    1,
+    2,
+    4,
+    8,
+    16,
+    32
+  ],
+  "bootstrap_draws": 10000,
+  "original_rank16_skill": [
+    0.12040672497129246,
+    0.09942415439228935
+  ],
+  "common_basis_rank16_skill": [
+    0.12149637442434857,
+    0.10135622174708203
+  ],
+  "common_basis_rank32_skill": [
+    0.1349432875076655,
+    0.12028590972396014
+  ],
+  "common_basis_16_to_32_added_skill": [
+    0.01344691308331684,
+    0.018929687976878176
+  ],
+  "original_anchor_basis_columns": 24,
+  "common_grid_basis_columns": 40,
+  "interpretation": "Predictive gains continue through tested rank32; no plateau established and no biological rank/rewiring identification",
+  "paper_changed": false,
+  "biological_A_fitted": false,
+  "candidate_discovery": "PARKED",
+  "CARNIVAL": "PARKED"
+}

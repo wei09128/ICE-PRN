@@ -1,0 +1,3 @@
+direction	method	skill	lower95	upper95	source
+K562_to_RPE1	diagonal_plus_cross_gene	0.154	0.143	0.165	ICE_PRN_NORMALIZATION_SENSITIVITY_v1 result as reported in manuscript v4.16 Methods
+RPE1_to_K562	diagonal_plus_cross_gene	0.108	0.100	0.117	ICE_PRN_NORMALIZATION_SENSITIVITY_v1 result as reported in manuscript v4.16 Methods

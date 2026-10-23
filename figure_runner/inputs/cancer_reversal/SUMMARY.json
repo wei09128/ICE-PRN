@@ -1,0 +1,87 @@
+{
+  "status": "COMPLETE_EXPLORATORY_OPPOSITION_ONLY",
+  "models_fitted": false,
+  "treatment_ranking_established": false,
+  "phenotype_reversal_established": false,
+  "chemical_identities": 4185,
+  "source_response_sha256": "24e24107a57a60d487a8960c7e85f5b70c0a04aa8c77bb522736847342420b03",
+  "references": [
+    {
+      "reference": "MCF7_vs_MCF10A",
+      "cell": "MCF7",
+      "n_genes": 963,
+      "n_identities": 4185,
+      "positive_both_halves": 1618,
+      "negative_both_halves": 962,
+      "nonfinite_scores": 0,
+      "top_tail_up_genes": 50,
+      "top_tail_down_genes": 50,
+      "half_score_agreement_descriptive": 0.3799797577460868
+    },
+    {
+      "reference": "PC3_vs_RWPE1",
+      "cell": "PC3",
+      "n_genes": 968,
+      "n_identities": 4185,
+      "positive_both_halves": 1515,
+      "negative_both_halves": 949,
+      "nonfinite_scores": 0,
+      "top_tail_up_genes": 50,
+      "top_tail_down_genes": 50,
+      "half_score_agreement_descriptive": 0.22880026367239367
+    },
+    {
+      "reference": "prostate_tumor_vs_adjacent_15pairs",
+      "cell": "PC3",
+      "n_genes": 960,
+      "n_identities": 4185,
+      "positive_both_halves": 1547,
+      "negative_both_halves": 945,
+      "nonfinite_scores": 0,
+      "top_tail_up_genes": 50,
+      "top_tail_down_genes": 50,
+      "half_score_agreement_descriptive": 0.31360368934955685
+    }
+  ],
+  "reference_qc": {
+    "MCF7_vs_MCF10A": {
+      "measured_genes": 963,
+      "up": 399,
+      "down": 564,
+      "zero": 0,
+      "role": "cell_line_reference",
+      "replication": "3_vs_3_study_replicates"
+    },
+    "PC3_vs_RWPE1": {
+      "measured_genes": 968,
+      "up": 527,
+      "down": 436,
+      "zero": 5,
+      "role": "cell_line_reference",
+      "replication": "1_vs_1_UNREPLICATED_DESCRIPTIVE"
+    },
+    "prostate_tumor_vs_adjacent_15pairs": {
+      "measured_genes": 960,
+      "up": 506,
+      "down": 454,
+      "zero": 0,
+      "role": "external_tissue_proxy",
+      "replication": "15_patient_pairs_not_PC3"
+    },
+    "prostate_reference_agreement": {
+      "common_genes": 950,
+      "spearman_descriptive": -0.010539064503547604,
+      "nonzero_sign_agreement": 0.49894736842105264,
+      "not_independent_gene_inference": true
+    },
+    "breast_author_q_le_005": 381
+  },
+  "limitations": [
+    "MCF7 versus MCF10A is a non-isogenic cell-line contrast, not a pure cancer effect",
+    "PC3 versus RWPE1 has one deposited sample per line and no biological-replication uncertainty",
+    "The prostate cell-line and patient-tissue signatures have essentially no agreement; scores remain separate",
+    "L1000 z-scores cannot be added to external log fold changes to estimate distance to healthy",
+    "Technical half agreement does not establish biological replication or clinical benefit",
+    "Generic stress, toxicity and proliferation effects may generate reversal alignment; no independent viability endpoint tested"
+  ]
+}

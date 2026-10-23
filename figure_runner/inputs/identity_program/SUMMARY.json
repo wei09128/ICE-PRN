@@ -1,0 +1,22 @@
+{
+  "status": "COMPLETE_PARITY_PASSED_EXPLORATORY_PROGRAM_REVIEW_REQUIRED",
+  "scope": "EXPLORATORY_FIXED_EXTERNAL_PROGRAMS_LEGACY_MAPPING_NOT_CAUSAL_IDENTITY",
+  "errors": [],
+  "contract_sha256": "c1a1e07d2095251a033c4d179e3ddc3a130ce534178394028d0deb6ef247524d",
+  "runner_sha256": "adc76301e66650593a0a05b29fef9dec246fb9bf73398d350af130e54fcee132",
+  "primary_input_hashes": {
+    "K562": "5405f345704f4deb5c35ef1af6bb81ea7194cad13c252c06f46538a336b62901",
+    "RPE1": "09cdf9b65adcf13f0774f9c6bce6f0cf38ab7ef0273f810c3e2e716265c12d8d"
+  },
+  "new_hyperparameter_search": false,
+  "original_predictor_replayed": true,
+  "program_definition_sha256": "7062a732769c4d6a6680a51d627d836fefec56b430f38e84f28b45e1799dc49e",
+  "n_targets": 1874,
+  "n_readouts": 7226,
+  "n_constructs": 1977,
+  "n_construct_checks": 80,
+  "max_reproduction_abs_error": 1.1102230246251565e-16,
+  "bootstrap_draws": 10000,
+  "bootstrap_scope": "target clusters; fixed fits/controls/programs; no biological replication or retraining uncertainty",
+  "identity_causality_established": false
+}

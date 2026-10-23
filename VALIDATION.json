@@ -1,0 +1,75 @@
+{
+  "status": "PASS",
+  "date": "2026-10-23",
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8"
+  },
+  "figure_build": {
+    "status": "COMPLETE",
+    "version": "5.12",
+    "figures": 7,
+    "graphic_files": 21,
+    "models_refitted": false,
+    "new_statistical_tests": false,
+    "results": [
+      {
+        "figure": "Figure_1_two_system_transfer",
+        "status": "COMPLETE"
+      },
+      {
+        "figure": "Figure_2_scoring",
+        "status": "COMPLETE"
+      },
+      {
+        "figure": "Figure_3_biological_associations",
+        "status": "COMPLETE"
+      },
+      {
+        "figure": "Figure_4_capacity_and_p53_readouts",
+        "status": "COMPLETE"
+      },
+      {
+        "figure": "Figure_S1_p53_direction_details",
+        "status": "COMPLETE"
+      },
+      {
+        "figure": "Figure_S2_identity_programs",
+        "status": "COMPLETE"
+      },
+      {
+        "figure": "Figure_S3_capacity_details",
+        "status": "COMPLETE"
+      }
+    ],
+    "sha256": {
+      "Figure_1_two_system_transfer.png": "5552c33763e004a29d030a71030b0aaa4c0349348c0ce848e903669e66e2aa14",
+      "Figure_1_two_system_transfer.pdf": "cd0c48297b40f08d134a01538eb4c3187a31eb8937fd7ca748c231790282c11e",
+      "Figure_1_two_system_transfer.svg": "ddd33d0995a359b60a644326047954d3ef8f135613b78dea6a4f903e687f2cf5",
+      "Figure_2_scoring.png": "767cc826434def8189eae64b9f9e6e7f784121762388fe448b561f023f72bb6c",
+      "Figure_2_scoring.pdf": "c2dbfac8c75bd23075ea5ed3d95875981cf263392da496fe86b411be7351245c",
+      "Figure_2_scoring.svg": "1f4ae558a0a5051a907c89be122d493f8168d463a92a873c71261f4c696d4543",
+      "Figure_3_biological_associations.png": "9acae18d4e4797c9818fdf68e419ebf5c65a04aa9e64c7258c284339ce1729ba",
+      "Figure_3_biological_associations.pdf": "628e7adfc03e599d0a68c98745e7f3a537f2a03c62049ecfe0b6a0ec1ee55590",
+      "Figure_3_biological_associations.svg": "0170a663da7e4dfe2cc1790ca9aba2ee6387baf4f8b20ddb8c6dd7e3f4e5ef4b",
+      "Figure_4_capacity_and_p53_readouts.png": "aff7e44747adec084fbdcd0d84494d3cdd0ae9e66a8cd73eea8d7ea4555247d0",
+      "Figure_4_capacity_and_p53_readouts.pdf": "567ae368f9c6564c80afe20d1138175442e329115c2a616550bb17d048510f39",
+      "Figure_4_capacity_and_p53_readouts.svg": "882ff665769d5cad97ab896d123d90ca6693f9fb1100819fc3f5a32236e6f106",
+      "Figure_S1_p53_direction_details.png": "fa2e9d760397feb1482987bdb952f5dfcc81db5ab4e8f661250f834b4e96acfd",
+      "Figure_S1_p53_direction_details.pdf": "e491007a5686d45c07825e421d34d5a0113076fc9c22e61d56b315a196b86b2f",
+      "Figure_S1_p53_direction_details.svg": "b7e9b12b72fa90bcd2652a64be18846cdb0bc65748d031b6d3c9ee41aeabb299",
+      "Figure_S2_identity_programs.png": "1365107295f39ba5a3b2cd087266390cffde76efd5c4a9699bf5f9503cdcf875",
+      "Figure_S2_identity_programs.pdf": "5a70ae64bb65423501bb1244eefad965a9f3bd034eb46997ad7609baa7bf2c92",
+      "Figure_S2_identity_programs.svg": "ff7dfe842c0669538826743876f523f803a9192ebea34a6d8dc40be789367b17",
+      "Figure_S3_capacity_details.png": "5551bfa89a174c28071a062ea2486309684697a5785b5b0fec10d1a36535ddcd",
+      "Figure_S3_capacity_details.pdf": "7d2fd3a1dc262a4755c5e6c5c3c4061dede8382be121f5e017728b6d703ab864",
+      "Figure_S3_capacity_details.svg": "25269c72038478a17b00320d8bbd7ef079a9e162a762b611733bfd64c8a89e03"
+    }
+  },
+  "syntax_check": "all unpacked Python modules compile",
+  "credential_pattern_scan": "no private-key or GitHub-token pattern found in unpacked text files",
+  "published_to_github": false,
+  "raw_data_end_to_end_rerun": false
+}

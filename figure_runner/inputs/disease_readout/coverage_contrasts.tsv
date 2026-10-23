@@ -1,0 +1,9 @@
+direction	disease	contrast	primary	estimate	undefined_draws	lower95	upper95	lower98_75	upper98_75	interval_status
+MCF7_to_PC3	prostate_cancer	rescued_minus_both_success	True	-0.2262162162162162	0	-0.30928961748633876	-0.14249084249084248	-0.31020558002936854	0.02338530066815145	conditional_identity_bootstrap
+MCF7_to_PC3	prostate_cancer	persistent_failure_minus_both_success	True	-0.25	0	-0.3333333333333333	-0.16666666666666666	-0.3333333333333333	0.0	conditional_identity_bootstrap
+MCF7_to_PC3	breast_cancer	rescued_minus_both_success	False	-0.4664864864864865	0	-0.4672131147540984	-0.29869549323234973			conditional_identity_bootstrap
+MCF7_to_PC3	breast_cancer	persistent_failure_minus_both_success	False	-0.5	0	-0.5	-0.3333333333333333			conditional_identity_bootstrap
+PC3_to_MCF7	prostate_cancer	rescued_minus_both_success	False	0.023554603854389723	0	0.02267818574514039	0.025			conditional_identity_bootstrap
+PC3_to_MCF7	prostate_cancer	persistent_failure_minus_both_success	False	0.0	8					UNRESOLVED_EMPTY_GROUP_IN_OBSERVED_OR_BOOTSTRAP
+PC3_to_MCF7	breast_cancer	rescued_minus_both_success	True	0.034261241970021415	0	0.0328578087963551	0.036026200873362446	0.032467532467532464	0.03618421052631579	conditional_identity_bootstrap
+PC3_to_MCF7	breast_cancer	persistent_failure_minus_both_success	True	0.0	8					UNRESOLVED_EMPTY_GROUP_IN_OBSERVED_OR_BOOTSTRAP

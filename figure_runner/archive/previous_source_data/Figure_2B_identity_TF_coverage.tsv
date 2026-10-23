@@ -1,0 +1,5 @@
+group	scope	core_TF_cases	all_scored_TF_cases	coverage	lower95	upper95	undefined_bootstrap_draws
+rescued	pooled	15	52	0.2884615384615384	0.1458238636363636	0.4482758620689655	0
+persistent_failure	pooled	9	26	0.3461538461538461	0.1176470588235294	0.6	0
+both_succeeded	pooled	9	15	0.6	0.3125	0.8461538461538461	0
+other_mixed_or_tied	pooled	9	35	0.2571428571428571	0.09375	0.4473684210526316	0

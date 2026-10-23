@@ -1,0 +1,129 @@
+direction	outcome	moa	member_groups	annotated_groups	coverage
+MCF7_to_PC3	rescued	acetylcholine receptor antagonist	21	797	0.026348808030112924
+MCF7_to_PC3	rescued	adrenergic receptor agonist	25	797	0.03136762860727729
+MCF7_to_PC3	rescued	adrenergic receptor antagonist	24	797	0.030112923462986198
+MCF7_to_PC3	rescued	bacterial DNA gyrase inhibitor	13	797	0.01631116687578419
+MCF7_to_PC3	rescued	bacterial cell wall synthesis inhibitor	18	797	0.02258469259723965
+MCF7_to_PC3	rescued	calcium channel blocker	11	797	0.013801756587202008
+MCF7_to_PC3	rescued	cyclooxygenase inhibitor	20	797	0.025094102885821833
+MCF7_to_PC3	rescued	dopamine receptor agonist	10	797	0.012547051442910916
+MCF7_to_PC3	rescued	dopamine receptor antagonist	23	797	0.028858218318695106
+MCF7_to_PC3	rescued	glucocorticoid receptor agonist	9	797	0.011292346298619825
+MCF7_to_PC3	rescued	glutamate receptor antagonist	11	797	0.013801756587202008
+MCF7_to_PC3	rescued	histamine receptor antagonist	18	797	0.02258469259723965
+MCF7_to_PC3	rescued	phosphodiesterase inhibitor	14	797	0.01756587202007528
+MCF7_to_PC3	rescued	serotonin receptor agonist	13	797	0.01631116687578419
+MCF7_to_PC3	rescued	serotonin receptor antagonist	29	797	0.03638644918444166
+MCF7_to_PC3	rescued	sodium channel blocker	8	797	0.010037641154328732
+MCF7_to_PC3	persistent_failure	acetylcholine receptor antagonist	3	237	0.012658227848101266
+MCF7_to_PC3	persistent_failure	adrenergic receptor agonist	3	237	0.012658227848101266
+MCF7_to_PC3	persistent_failure	adrenergic receptor antagonist	8	237	0.03375527426160337
+MCF7_to_PC3	persistent_failure	bacterial DNA gyrase inhibitor	0	237	0.0
+MCF7_to_PC3	persistent_failure	bacterial cell wall synthesis inhibitor	1	237	0.004219409282700422
+MCF7_to_PC3	persistent_failure	calcium channel blocker	2	237	0.008438818565400843
+MCF7_to_PC3	persistent_failure	cyclooxygenase inhibitor	13	237	0.05485232067510549
+MCF7_to_PC3	persistent_failure	dopamine receptor agonist	4	237	0.016877637130801686
+MCF7_to_PC3	persistent_failure	dopamine receptor antagonist	10	237	0.04219409282700422
+MCF7_to_PC3	persistent_failure	glucocorticoid receptor agonist	4	237	0.016877637130801686
+MCF7_to_PC3	persistent_failure	glutamate receptor antagonist	2	237	0.008438818565400843
+MCF7_to_PC3	persistent_failure	histamine receptor antagonist	10	237	0.04219409282700422
+MCF7_to_PC3	persistent_failure	phosphodiesterase inhibitor	3	237	0.012658227848101266
+MCF7_to_PC3	persistent_failure	serotonin receptor agonist	4	237	0.016877637130801686
+MCF7_to_PC3	persistent_failure	serotonin receptor antagonist	10	237	0.04219409282700422
+MCF7_to_PC3	persistent_failure	sodium channel blocker	7	237	0.029535864978902954
+MCF7_to_PC3	both_success	acetylcholine receptor antagonist	0	14	0.0
+MCF7_to_PC3	both_success	adrenergic receptor agonist	0	14	0.0
+MCF7_to_PC3	both_success	adrenergic receptor antagonist	0	14	0.0
+MCF7_to_PC3	both_success	bacterial DNA gyrase inhibitor	0	14	0.0
+MCF7_to_PC3	both_success	bacterial cell wall synthesis inhibitor	0	14	0.0
+MCF7_to_PC3	both_success	calcium channel blocker	0	14	0.0
+MCF7_to_PC3	both_success	cyclooxygenase inhibitor	0	14	0.0
+MCF7_to_PC3	both_success	dopamine receptor agonist	0	14	0.0
+MCF7_to_PC3	both_success	dopamine receptor antagonist	0	14	0.0
+MCF7_to_PC3	both_success	glucocorticoid receptor agonist	0	14	0.0
+MCF7_to_PC3	both_success	glutamate receptor antagonist	0	14	0.0
+MCF7_to_PC3	both_success	histamine receptor antagonist	0	14	0.0
+MCF7_to_PC3	both_success	phosphodiesterase inhibitor	0	14	0.0
+MCF7_to_PC3	both_success	serotonin receptor agonist	0	14	0.0
+MCF7_to_PC3	both_success	serotonin receptor antagonist	0	14	0.0
+MCF7_to_PC3	both_success	sodium channel blocker	0	14	0.0
+MCF7_to_PC3	other	acetylcholine receptor antagonist	13	697	0.018651362984218076
+MCF7_to_PC3	other	adrenergic receptor agonist	17	697	0.024390243902439025
+MCF7_to_PC3	other	adrenergic receptor antagonist	23	697	0.03299856527977044
+MCF7_to_PC3	other	bacterial DNA gyrase inhibitor	7	697	0.010043041606886656
+MCF7_to_PC3	other	bacterial cell wall synthesis inhibitor	17	697	0.024390243902439025
+MCF7_to_PC3	other	calcium channel blocker	14	697	0.020086083213773313
+MCF7_to_PC3	other	cyclooxygenase inhibitor	31	697	0.04447632711621234
+MCF7_to_PC3	other	dopamine receptor agonist	8	697	0.011477761836441894
+MCF7_to_PC3	other	dopamine receptor antagonist	23	697	0.03299856527977044
+MCF7_to_PC3	other	glucocorticoid receptor agonist	8	697	0.011477761836441894
+MCF7_to_PC3	other	glutamate receptor antagonist	14	697	0.020086083213773313
+MCF7_to_PC3	other	histamine receptor antagonist	17	697	0.024390243902439025
+MCF7_to_PC3	other	phosphodiesterase inhibitor	15	697	0.021520803443328552
+MCF7_to_PC3	other	serotonin receptor agonist	13	697	0.018651362984218076
+MCF7_to_PC3	other	serotonin receptor antagonist	16	697	0.02295552367288379
+MCF7_to_PC3	other	sodium channel blocker	14	697	0.020086083213773313
+PC3_to_MCF7	rescued	acetylcholine receptor antagonist	14	794	0.017632241813602016
+PC3_to_MCF7	rescued	adrenergic receptor agonist	23	794	0.028967254408060455
+PC3_to_MCF7	rescued	adrenergic receptor antagonist	24	794	0.030226700251889168
+PC3_to_MCF7	rescued	bacterial DNA gyrase inhibitor	10	794	0.012594458438287154
+PC3_to_MCF7	rescued	bacterial cell wall synthesis inhibitor	21	794	0.02644836272040302
+PC3_to_MCF7	rescued	calcium channel blocker	13	794	0.0163727959697733
+PC3_to_MCF7	rescued	cyclooxygenase inhibitor	25	794	0.031486146095717885
+PC3_to_MCF7	rescued	dopamine receptor agonist	12	794	0.015113350125944584
+PC3_to_MCF7	rescued	dopamine receptor antagonist	26	794	0.0327455919395466
+PC3_to_MCF7	rescued	glucocorticoid receptor agonist	10	794	0.012594458438287154
+PC3_to_MCF7	rescued	glutamate receptor antagonist	12	794	0.015113350125944584
+PC3_to_MCF7	rescued	histamine receptor antagonist	16	794	0.020151133501259445
+PC3_to_MCF7	rescued	phosphodiesterase inhibitor	19	794	0.02392947103274559
+PC3_to_MCF7	rescued	serotonin receptor agonist	13	794	0.0163727959697733
+PC3_to_MCF7	rescued	serotonin receptor antagonist	24	794	0.030226700251889168
+PC3_to_MCF7	rescued	sodium channel blocker	11	794	0.013853904282115869
+PC3_to_MCF7	persistent_failure	acetylcholine receptor antagonist	6	250	0.024
+PC3_to_MCF7	persistent_failure	adrenergic receptor agonist	4	250	0.016
+PC3_to_MCF7	persistent_failure	adrenergic receptor antagonist	6	250	0.024
+PC3_to_MCF7	persistent_failure	bacterial DNA gyrase inhibitor	2	250	0.008
+PC3_to_MCF7	persistent_failure	bacterial cell wall synthesis inhibitor	4	250	0.016
+PC3_to_MCF7	persistent_failure	calcium channel blocker	0	250	0.0
+PC3_to_MCF7	persistent_failure	cyclooxygenase inhibitor	10	250	0.04
+PC3_to_MCF7	persistent_failure	dopamine receptor agonist	5	250	0.02
+PC3_to_MCF7	persistent_failure	dopamine receptor antagonist	12	250	0.048
+PC3_to_MCF7	persistent_failure	glucocorticoid receptor agonist	4	250	0.016
+PC3_to_MCF7	persistent_failure	glutamate receptor antagonist	2	250	0.008
+PC3_to_MCF7	persistent_failure	histamine receptor antagonist	10	250	0.04
+PC3_to_MCF7	persistent_failure	phosphodiesterase inhibitor	5	250	0.02
+PC3_to_MCF7	persistent_failure	serotonin receptor agonist	6	250	0.024
+PC3_to_MCF7	persistent_failure	serotonin receptor antagonist	8	250	0.032
+PC3_to_MCF7	persistent_failure	sodium channel blocker	8	250	0.032
+PC3_to_MCF7	both_success	acetylcholine receptor antagonist	0	12	0.0
+PC3_to_MCF7	both_success	adrenergic receptor agonist	0	12	0.0
+PC3_to_MCF7	both_success	adrenergic receptor antagonist	0	12	0.0
+PC3_to_MCF7	both_success	bacterial DNA gyrase inhibitor	0	12	0.0
+PC3_to_MCF7	both_success	bacterial cell wall synthesis inhibitor	0	12	0.0
+PC3_to_MCF7	both_success	calcium channel blocker	0	12	0.0
+PC3_to_MCF7	both_success	cyclooxygenase inhibitor	0	12	0.0
+PC3_to_MCF7	both_success	dopamine receptor agonist	0	12	0.0
+PC3_to_MCF7	both_success	dopamine receptor antagonist	0	12	0.0
+PC3_to_MCF7	both_success	glucocorticoid receptor agonist	0	12	0.0
+PC3_to_MCF7	both_success	glutamate receptor antagonist	0	12	0.0
+PC3_to_MCF7	both_success	histamine receptor antagonist	0	12	0.0
+PC3_to_MCF7	both_success	phosphodiesterase inhibitor	0	12	0.0
+PC3_to_MCF7	both_success	serotonin receptor agonist	0	12	0.0
+PC3_to_MCF7	both_success	serotonin receptor antagonist	0	12	0.0
+PC3_to_MCF7	both_success	sodium channel blocker	0	12	0.0
+PC3_to_MCF7	other	acetylcholine receptor antagonist	17	689	0.02467343976777939
+PC3_to_MCF7	other	adrenergic receptor agonist	18	689	0.026124818577648767
+PC3_to_MCF7	other	adrenergic receptor antagonist	25	689	0.036284470246734396
+PC3_to_MCF7	other	bacterial DNA gyrase inhibitor	8	689	0.011611030478955007
+PC3_to_MCF7	other	bacterial cell wall synthesis inhibitor	11	689	0.015965166908563134
+PC3_to_MCF7	other	calcium channel blocker	14	689	0.020319303338171262
+PC3_to_MCF7	other	cyclooxygenase inhibitor	29	689	0.0420899854862119
+PC3_to_MCF7	other	dopamine receptor agonist	5	689	0.00725689404934688
+PC3_to_MCF7	other	dopamine receptor antagonist	18	689	0.026124818577648767
+PC3_to_MCF7	other	glucocorticoid receptor agonist	7	689	0.010159651669085631
+PC3_to_MCF7	other	glutamate receptor antagonist	13	689	0.018867924528301886
+PC3_to_MCF7	other	histamine receptor antagonist	19	689	0.027576197387518143
+PC3_to_MCF7	other	phosphodiesterase inhibitor	8	689	0.011611030478955007
+PC3_to_MCF7	other	serotonin receptor agonist	11	689	0.015965166908563134
+PC3_to_MCF7	other	serotonin receptor antagonist	23	689	0.033381712626995644
+PC3_to_MCF7	other	sodium channel blocker	10	689	0.01451378809869376

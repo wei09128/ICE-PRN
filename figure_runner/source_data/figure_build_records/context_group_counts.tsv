@@ -1,0 +1,11 @@
+prostate_reference	discovery_pattern	discovery_n	same_pattern_in_half1	confirmation_fraction	stable_n
+PC3_vs_RWPE1	MCF7_only	964	289.0	0.29979253112033194	289
+PC3_vs_RWPE1	PC3_only	942	266.0	0.2823779193205945	266
+PC3_vs_RWPE1	both	1423	719.0	0.5052705551651441	719
+PC3_vs_RWPE1	neither	856	272.0	0.3177570093457944	272
+PC3_vs_RWPE1	uncertain	0			2639
+prostate_tumor_vs_adjacent_15pairs	MCF7_only	928	249.0	0.2683189655172414	249
+prostate_tumor_vs_adjacent_15pairs	PC3_only	940	251.0	0.2670212765957447	251
+prostate_tumor_vs_adjacent_15pairs	both	1459	779.0	0.5339273474982865	779
+prostate_tumor_vs_adjacent_15pairs	neither	858	292.0	0.34032634032634035	292
+prostate_tumor_vs_adjacent_15pairs	uncertain	0			2614

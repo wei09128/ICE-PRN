@@ -1,0 +1,1585 @@
+panel	symbol	source	definition	status	target	saved_symbol_match	legacy_exact_match
+RPE_experimental_cocktail	FOXD1	DAlessio2015	complete nine-factor tested cocktail	not_in_target_panel			
+RPE_experimental_cocktail	GLIS3	DAlessio2015	complete nine-factor tested cocktail	not_in_target_panel			
+RPE_experimental_cocktail	LHX2	DAlessio2015	complete nine-factor tested cocktail	not_in_target_panel			
+RPE_experimental_cocktail	MITF	DAlessio2015	complete nine-factor tested cocktail	not_in_target_panel			
+RPE_experimental_cocktail	OTX2	DAlessio2015	complete nine-factor tested cocktail	not_in_target_panel			
+RPE_experimental_cocktail	PAX6	DAlessio2015	complete nine-factor tested cocktail	not_in_target_panel			
+RPE_experimental_cocktail	SIX3	DAlessio2015	complete nine-factor tested cocktail	not_in_target_panel			
+RPE_experimental_cocktail	SOX9	DAlessio2015	complete nine-factor tested cocktail	not_in_target_panel			
+RPE_experimental_cocktail	ZNF92	DAlessio2015	complete nine-factor tested cocktail	not_in_target_panel			
+atlas_TF_universe	AATF	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000275700	ENSG00000275700	ENSG00000275700
+atlas_TF_universe	ADNP	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ADNP2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	AEBP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	AFF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	AFF3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	AFF4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	AHCTF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000153207	ENSG00000153207	ENSG00000153207
+atlas_TF_universe	AHR	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	AIRE	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	AKNA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ALS2CR8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ALX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ALX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ALX4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ANKRD1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ANKRD30A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	AR	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ARID3A	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000116017	ENSG00000116017	ENSG00000116017
+atlas_TF_universe	ARID4A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ARID5A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ARID5B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ARNT	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ARNT2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ARNTL	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ARNTL2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ARX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ASCL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ASCL2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ASCL3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ATF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ATF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ATF3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ATF4	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000128272	ENSG00000128272	ENSG00000128272
+atlas_TF_universe	ATF5	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000169136	ENSG00000169136	ENSG00000169136
+atlas_TF_universe	ATF6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ATF6B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ATF7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ATOH1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ATOH7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BACH1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BACH2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BARHL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BARX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BARX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BATF	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BATF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BATF3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BCL11A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BCL3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BCL6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BCL6B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BCLAF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000029363	ENSG00000029363	ENSG00000029363
+atlas_TF_universe	BHLHE22	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BHLHE40	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BHLHE41	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BLZF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BNC1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	BNC2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	C11orf9	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CBFA2T2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CBFA2T3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CBFB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CBL	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CC2D1A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CDX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CDX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CDX4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CEBPA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CEBPB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CEBPD	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CEBPE	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CEBPG	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CEBPZ	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000115816	ENSG00000115816	ENSG00000115816
+atlas_TF_universe	CIR1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CIZ1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CLOCK	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CNBP	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CNOT7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CNOT8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CREB1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CREB3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CREB3L1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CREB3L2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CREB3L3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CREB3L4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CREB5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CREBL2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CREBZF	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CREM	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CRX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CSDA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CSRNP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CSRNP2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CSRNP3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CTCF	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000102974	ENSG00000102974	ENSG00000102974
+atlas_TF_universe	CTCFL	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CTNNB1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CUX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	CUX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DACH1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DBP	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DDIT3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DEAF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DLX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DLX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DLX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DLX4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DLX5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DLX6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DMBX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DMRT1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DMRT2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DMRT3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DMRTA1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DMRTB1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DMRTC2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DMTF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	DRAP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000175550	ENSG00000175550	ENSG00000175550
+atlas_TF_universe	E2F1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	E2F2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	E2F3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	E2F4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	E2F5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	E2F6	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000169016	ENSG00000169016	ENSG00000169016
+atlas_TF_universe	E2F7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	E2F8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	E4F1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000167967	ENSG00000167967	ENSG00000167967
+atlas_TF_universe	EBF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EBF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EBF3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EBF4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EGR1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EGR2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EGR3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EGR4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EHF	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ELF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ELF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ELF3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ELF4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ELF5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ELK1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ELK3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ELK4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EMX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EMX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EN1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EN2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EOMES	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EP300	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EPAS1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ERF	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ERG	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ESR1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ESR2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ESRRA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ESRRB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ESRRG	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ESX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ETS1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ETS2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ETV1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ETV2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ETV3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ETV4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ETV5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ETV6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ETV7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	EVX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FERD3L	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FEV	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FEZF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FIGLA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FLI1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOS	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOSB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOSL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOSL2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXA1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXA2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXA3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXB1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXC1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXC2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXD1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXD2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXD3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXD4	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000170122	ENSG00000170122	
+atlas_TF_universe	FOXE1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXE3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXG1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXH1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXI1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXJ1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXJ2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXJ3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXK1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXK2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXL2	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000183770	ENSG00000183770	ENSG00000183770
+atlas_TF_universe	FOXM1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXN1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXN2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXN3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXN4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXO1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXO3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXO4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXP2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXP3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXP4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXQ1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXR1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXR2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FOXS1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FUBP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	FUBP3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GABPA	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000154727	ENSG00000154727	ENSG00000154727
+atlas_TF_universe	GABPB1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GAS7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GATA1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000102145	ENSG00000102145	ENSG00000102145
+atlas_TF_universe	GATA2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GATA3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GATA4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GATA5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GATA6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GATAD1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GATAD2A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GATAD2B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GBX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GBX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GCFC1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GCM1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GCM2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GFI1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GFI1B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GLI1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GLI2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GLI3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GLI4	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000250571	ENSG00000250571	ENSG00000250571
+atlas_TF_universe	GLIS1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GLIS2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GLIS3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GMEB1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GMEB2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GPBP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GRHL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GRHL2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GRHL3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GSC	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GSC2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GSX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GSX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	GZF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HAND1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HAND2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HBP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HCFC1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HCLS1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HDX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HES1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HES2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HES4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HES5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HES6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HES7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HESX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HEY1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HEY2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HEYL	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HHEX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HIC1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HIC2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HIF1A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HIF3A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HINFP	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HIRA	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000100084	ENSG00000100084	ENSG00000100084
+atlas_TF_universe	HIVEP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HIVEP2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HIVEP3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HLF	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HLX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HMBOX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HMG20A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HMG20B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HMGA1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000137309	ENSG00000137309	ENSG00000137309
+atlas_TF_universe	HMGB1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000189403	ENSG00000189403	ENSG00000189403
+atlas_TF_universe	HMGB2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HMX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HMX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HNF1A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HNF1B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HNF4A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HNF4G	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOMEZ	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOPX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXA1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXA10	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXA11	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXA13	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXA2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXA3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXA4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXA5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXA6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXA7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXB1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXB13	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXB2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXB3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXB4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXB5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXB6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXB7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXB8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXB9	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXC10	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000180818	ENSG00000180818	ENSG00000180818
+atlas_TF_universe	HOXC11	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXC12	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXC13	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXC4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXC5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXC6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXC8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXC9	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXD1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXD10	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXD11	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXD12	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXD13	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXD3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXD4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXD8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HOXD9	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HR	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HSF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000185122	ENSG00000185122	ENSG00000185122
+atlas_TF_universe	HSF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HSF4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	HSF5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ID1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ID3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IKZF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IKZF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IKZF3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IKZF4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IKZF5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ILF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000143621	ENSG00000143621	ENSG00000143621
+atlas_TF_universe	ILF3	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000129351	ENSG00000129351	ENSG00000129351
+atlas_TF_universe	INSM1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRF3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRF4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRF5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRF6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRF7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRF8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRF9	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRX4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	IRX5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ISL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ISL2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ISX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	JDP2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	JUN	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	JUNB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	JUND	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF10	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF11	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF12	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF13	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF14	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF15	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF16	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF17	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF7	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000118263	ENSG00000118263	ENSG00000118263
+atlas_TF_universe	KLF8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	KLF9	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	L3MBTL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	L3MBTL4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LBX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LCOR	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LCORL	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LEF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LHX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LHX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LHX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LHX4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LHX5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LHX6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LHX8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LHX9	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LIN54	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000189308	ENSG00000189308	ENSG00000189308
+atlas_TF_universe	LMO1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LMO4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LMX1A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LMX1B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LRRFIP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LZTR1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	LZTS1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MAF	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MAFB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MAFF	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MAFG	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MAFK	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MAX	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000125952	ENSG00000125952	ENSG00000125952
+atlas_TF_universe	MAZ	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MBD1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MECOM	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MECP2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MEF2A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MEF2C	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MEF2D	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MEIS1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MEIS2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MEIS3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MEOX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MEOX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MESP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MESP2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MGA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MITF	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MIXL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MKX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MLLT10	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MLLT3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MLX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MLXIP	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MLXIPL	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MNT	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MNX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MSC	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MSX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MSX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MTA1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MTA2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MTA3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MTF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MTF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MXD1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MXD3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MXI1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MYB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MYBL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MYBL2	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000101057	ENSG00000101057	ENSG00000101057
+atlas_TF_universe	MYC	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000136997	ENSG00000136997	ENSG00000136997
+atlas_TF_universe	MYCL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MYCN	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MYEF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MYF5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MYF6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MYNN	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MYOD1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MYOG	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MYPOP	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MYT1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MYT1L	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	MZF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000099326	ENSG00000099326	ENSG00000099326
+atlas_TF_universe	NANOG	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000111704	ENSG00000111704	
+atlas_TF_universe	NCOR1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NEUROD1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NEUROD2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NEUROD4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NEUROD6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NEUROG1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NEUROG2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NEUROG3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFAT5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFATC1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFATC2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFATC3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFATC4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFE2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFE2L1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFE2L2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFE2L3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFIA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFIB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFIC	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFIL3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFIX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFKB1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFKB2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFRKB	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000170322	ENSG00000170322	ENSG00000170322
+atlas_TF_universe	NFX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFXL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFYA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NFYB	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000120837	ENSG00000120837	ENSG00000120837
+atlas_TF_universe	NFYC	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000066136	ENSG00000066136	ENSG00000066136
+atlas_TF_universe	NHLH1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NHLH2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NKRF	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NKX2-1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NKX2-2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NKX2-3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NKX2-5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NKX2-8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NKX3-1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NKX3-2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NKX6-1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NKX6-2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NKX6-3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NOBOX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NOTCH1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NPAS1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NPAS2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NPAS3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NPAS4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR0B1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR0B2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR1D2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR1H2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR1H3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR1H4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR1I2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR1I3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR2C1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR2C2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR2E1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR2F1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR2F2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR2F6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR3C1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR3C2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR4A1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR4A2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR4A3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR5A1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR5A2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NR6A1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	NRF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000106459	ENSG00000106459	
+atlas_TF_universe	NRL	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	OLIG1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	OLIG2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	OLIG3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ONECUT1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ONECUT2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ONECUT3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	OSR1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	OSR2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	OTP	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	OTX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000115507	ENSG00000115507	
+atlas_TF_universe	OTX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	OVOL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	OVOL2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PA2G4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PATZ1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PAX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PAX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PAX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PAX4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PAX5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PAX6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PAX7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PAX8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PAX9	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PBX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PBX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PBX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PBX4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PCGF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PCGF6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PDX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PEG3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PGBD1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PGR	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PHOX2A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PHOX2B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PHTF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PITX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PITX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PITX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PKNOX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PKNOX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PLAG1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PLAGL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PLAGL2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU1F1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU2F1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU2F2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU2F3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU3F1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU3F2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU3F3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU3F4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU4F1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU4F2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU4F3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU5F1B	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000212993	ENSG00000212993	
+atlas_TF_universe	POU5F2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU6F1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	POU6F2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PPARA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PPARD	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PPARG	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PRDM1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PRDM14	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PRDM2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PRDM5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PREB	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000138073	ENSG00000138073	ENSG00000138073
+atlas_TF_universe	PROP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PROX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PROX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PRRX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PRRX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PTTG1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PURA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	PURB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RARA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RARB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RARG	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RAX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RAX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RB1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RBPJ	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RBPJL	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RCAN1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RCOR2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	REL	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RELA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RELB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RERE	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	REST	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RFX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RFX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RFX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RFX4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RFX5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RFX6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RFX7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RFXANK	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RFXAP	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RHOXF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RNF141	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RNF4	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000063978	ENSG00000063978	ENSG00000063978
+atlas_TF_universe	RORA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RORB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RORC	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RREB1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RUNX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RUNX1T1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RUNX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RUNX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RXRA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RXRB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	RXRG	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SALL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SALL2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SALL3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SALL4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SATB1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SATB2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SCRT1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SHOX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SHOX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SIM1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SIM2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SIX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SIX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SIX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SIX4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SIX5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SIX6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SLC2A4RG	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SLC30A9	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SMAD1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SMAD2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SMAD3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SMAD4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SMAD5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SMAD6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SMAD7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SMAD9	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SNAI1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SNAI2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SNAI3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SNAPC1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000023608	ENSG00000023608	ENSG00000023608
+atlas_TF_universe	SNAPC2	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000104976	ENSG00000104976	ENSG00000104976
+atlas_TF_universe	SNAPC3	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000164975	ENSG00000164975	ENSG00000164975
+atlas_TF_universe	SNAPC4	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000165684	ENSG00000165684	ENSG00000165684
+atlas_TF_universe	SNAPC5	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000174446	ENSG00000174446	ENSG00000174446
+atlas_TF_universe	SOHLH1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOHLH2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOLH	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX10	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX11	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX12	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX13	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX14	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX15	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX17	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX18	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX21	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX30	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SOX9	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SP140	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SP2	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000167182	ENSG00000167182	ENSG00000167182
+atlas_TF_universe	SP3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SP4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SP5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SP6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SP7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SP8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SPDEF	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SPEN	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SPI1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SPIB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SPIC	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SPZ1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SREBF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SREBF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	SRF	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000112658	ENSG00000112658	ENSG00000112658
+atlas_TF_universe	SRY	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ST18	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	STAT1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	STAT2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	STAT3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	STAT4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	STAT5A	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000126561	ENSG00000126561	ENSG00000126561
+atlas_TF_universe	STAT5B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	STAT6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	T	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TADA2A	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000276234	ENSG00000276234	ENSG00000276234
+atlas_TF_universe	TAF10	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000166337	ENSG00000166337	ENSG00000166337
+atlas_TF_universe	TAF12	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TAF13	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TAF1B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TAF4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TAF4B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TAF5	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000148835	ENSG00000148835	ENSG00000148835
+atlas_TF_universe	TAF5L	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TAF6	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000106290	ENSG00000106290	ENSG00000106290
+atlas_TF_universe	TAF7	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000178913	ENSG00000178913	ENSG00000178913
+atlas_TF_universe	TAL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TAL2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TARDBP	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000120948	ENSG00000120948	ENSG00000120948
+atlas_TF_universe	TBP	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000112592	ENSG00000112592	ENSG00000112592
+atlas_TF_universe	TBPL1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBR1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBX10	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBX15	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBX18	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBX19	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBX20	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBX21	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBX22	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBX4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBX5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TBX6	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TCF12	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TCF15	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TCF19	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TCF20	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TCF21	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TCF25	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TCF3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TCF4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TCF7	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TCF7L1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TCF7L2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TCFL5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TEAD1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TEAD2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TEAD3	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000007866	ENSG00000007866	ENSG00000007866
+atlas_TF_universe	TEAD4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TEF	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TFAM	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000108064	ENSG00000108064	ENSG00000108064
+atlas_TF_universe	TFAP2A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TFAP2B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TFAP2C	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TFAP2D	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TFAP2E	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TFAP4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TFCP2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TFCP2L1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TFDP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000198176	ENSG00000198176	ENSG00000198176
+atlas_TF_universe	TFDP2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TFDP3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TFE3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TFEB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TFEC	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TGIF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TGIF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TGIF2LY	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	THAP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000131931	ENSG00000131931	ENSG00000131931
+atlas_TF_universe	THAP11	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000168286	ENSG00000168286	ENSG00000168286
+atlas_TF_universe	THRA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	THRB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TLX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TLX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TLX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TP53	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TP63	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TP73	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TRERF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TRIM22	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TRIM25	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TRIM28	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TRIM29	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TRPS1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TSC22D1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TSC22D2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TSC22D3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TSC22D4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TSHZ1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TSHZ2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TSHZ3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TUB	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TULP4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TWIST1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	TWIST2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	UBN1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	UBP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	USF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	USF2	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000105698	ENSG00000105698	ENSG00000105698
+atlas_TF_universe	VAX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	VDR	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	VENTX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	VEZF1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	VSX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	WT1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	XBP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	YBX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000065978	ENSG00000065978	ENSG00000065978
+atlas_TF_universe	YBX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	YY1	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000100811	ENSG00000100811	ENSG00000100811
+atlas_TF_universe	YY2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBED1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBTB16	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBTB17	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000116809	ENSG00000116809	ENSG00000116809
+atlas_TF_universe	ZBTB2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBTB20	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBTB25	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBTB32	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBTB33	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBTB34	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBTB38	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBTB4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBTB48	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBTB5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBTB7A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZBTB7B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZC3H8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZEB1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZEB2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZFAT	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZFHX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZFHX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZFHX4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZFP36L1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZFP36L2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZFP37	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZFP42	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZFP57	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZFP90	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZFX	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZFY	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZGLP1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZGPAT	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZHX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZHX2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZHX3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZIC1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZIC2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZIC3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZIC4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZIC5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZKSCAN1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZKSCAN2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZKSCAN3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZKSCAN4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZKSCAN5	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF10	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF117	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF131	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF132	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF133	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000125846	ENSG00000125846	
+atlas_TF_universe	ZNF134	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF135	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF138	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF140	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF143	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF146	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF148	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF154	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF155	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF157	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF160	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF165	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF167	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF169	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF174	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF175	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF18	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF189	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF19	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF192	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF193	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF197	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF202	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF207	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000010244	ENSG00000010244	ENSG00000010244
+atlas_TF_universe	ZNF213	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF215	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF217	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF219	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF22	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF224	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF23	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF230	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF232	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF236	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000130856	ENSG00000130856	ENSG00000130856
+atlas_TF_universe	ZNF238	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF239	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF24	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000172466	ENSG00000172466	ENSG00000172466
+atlas_TF_universe	ZNF256	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF260	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF263	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF267	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF268	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF274	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF277	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF281	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF282	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF287	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF3	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF300	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF323	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF333	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF33A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF33B	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF35	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF350	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF354A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF354C	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF367	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF37A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF382	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF384	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF394	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF395	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF396	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF397	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF397OS	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF398	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF41	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF410	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF418	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF423	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF434	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF438	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF444	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF445	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF446	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF449	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF45	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF483	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF492	DAlessio2015_TableS1	all unambiguous atlas TF entries	covered_exact	ENSG00000229676	ENSG00000229676	
+atlas_TF_universe	ZNF496	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF498	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF500	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF536	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF569	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF593	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF606	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF628	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF639	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF643	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF652	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF667	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF692	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF70	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF71	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF75D	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF76	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF8	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF80	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF81	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF83	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF85	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF90	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF91	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF92	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNF93	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZNFX1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN1	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN10	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN12	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN16	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN18	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN2	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN20	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN21	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN22	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN23	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN29	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN30	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN4	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZSCAN5A	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZXDA	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_TF_universe	ZXDC	DAlessio2015_TableS1	all unambiguous atlas TF entries	not_in_target_panel			
+atlas_all_cells_top10	AEBP1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	AFF3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	AFF4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	AHR	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	AKNA	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ALX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ANKRD1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ANKRD30A	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	AR	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ARID5A	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ARNT2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ARNTL	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ARNTL2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ARX	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ASCL1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ASCL2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ATF1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ATF3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ATF5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000169136	ENSG00000169136	ENSG00000169136
+atlas_all_cells_top10	ATOH1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BACH1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BACH2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BARX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BARX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BATF	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BATF3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BCL11A	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BCL6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BCL6B	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BHLHE22	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BHLHE41	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BLZF1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BNC1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	BNC2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	C11orf9	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CBFB	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CC2D1A	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CDX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CDX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CDX4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CEBPA	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CEBPD	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CEBPE	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CEBPG	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CNBP	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CREB3L3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CREB3L4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CREB5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CREM	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CSDA	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CSRNP3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CTCFL	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	CUX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DACH1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DDIT3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DEAF1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DLX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DLX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DLX3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DLX4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DLX5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DLX6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DMRT1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DMRT2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DMRT3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DMRTB1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	DMRTC2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	E2F2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	E2F3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	E2F5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	E2F6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000169016	ENSG00000169016	ENSG00000169016
+atlas_all_cells_top10	E2F7	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	E2F8	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	EBF1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	EBF2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	EBF3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	EGR2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	EGR4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	EHF	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ELF3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ELF4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ELF5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ELK3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ELK4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	EMX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	EMX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	EN1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	EN2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	EOMES	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	EPAS1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ERG	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ESR1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ESR2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ESRRB	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ESRRG	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ESX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ETS1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ETV1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ETV3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ETV5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ETV6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FEZF2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FIGLA	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FLI1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOSB	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOSL1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOSL2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXA1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXA2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXA3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXC1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXC2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXD1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXD3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXE1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXF1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXF2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXG1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXH1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXJ1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXL1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXL2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000183770	ENSG00000183770	ENSG00000183770
+atlas_all_cells_top10	FOXM1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXN1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXO3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXP1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXP2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXQ1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXR1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	FOXS1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GABPB1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GAS7	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GATA1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000102145	ENSG00000102145	ENSG00000102145
+atlas_all_cells_top10	GATA3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GATA4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GATA5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GATA6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GATAD2A	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GCM1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GFI1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GFI1B	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GLI1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GLI4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000250571	ENSG00000250571	ENSG00000250571
+atlas_all_cells_top10	GLIS1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GLIS3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GRHL1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GRHL3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GSC2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	GZF1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HAND1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HCLS1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HES2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HES4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HES5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HES6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HESX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HEY1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HEY2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HEYL	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HHEX	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HIC2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HIF1A	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HIF3A	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HIRA	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000100084	ENSG00000100084	ENSG00000100084
+atlas_all_cells_top10	HLX	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HMGA1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000137309	ENSG00000137309	ENSG00000137309
+atlas_all_cells_top10	HMGB2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HNF1B	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HNF4A	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HNF4G	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOPX	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXA1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXA10	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXA11	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXA13	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXA3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXA5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXB1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXB13	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXB6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXB7	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXB8	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXC10	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000180818	ENSG00000180818	ENSG00000180818
+atlas_all_cells_top10	HOXC13	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXC6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXC9	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXD10	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXD11	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXD13	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXD3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXD8	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HOXD9	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HR	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HSF1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000185122	ENSG00000185122	ENSG00000185122
+atlas_all_cells_top10	HSF2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	HSF5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IKZF1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IKZF2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IKZF3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ILF2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000143621	ENSG00000143621	ENSG00000143621
+atlas_all_cells_top10	INSM1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IRF1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IRF4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IRF5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IRF6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IRF7	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IRF8	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IRX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IRX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IRX3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IRX4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	IRX5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ISL1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ISL2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ISX	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	JUN	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	KLF1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	KLF2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	KLF5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	KLF8	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	LEF1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	LHX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	LHX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	LHX3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	LHX4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	LHX6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	LHX8	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	LHX9	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	LMO1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	LMO4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	LRRFIP1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	LZTS1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MAF	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MAFB	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MAFF	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MAFG	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MAX	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000125952	ENSG00000125952	ENSG00000125952
+atlas_all_cells_top10	MAZ	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MBD1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MECOM	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MEF2C	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MEIS1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MEOX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MEOX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MESP1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MESP2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MITF	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MKX	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MLLT10	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MLXIP	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MLXIPL	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MNX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MSC	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MSX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MSX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MXD1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MYB	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MYBL1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MYBL2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000101057	ENSG00000101057	ENSG00000101057
+atlas_all_cells_top10	MYC	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000136997	ENSG00000136997	ENSG00000136997
+atlas_all_cells_top10	MYCN	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MYF5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MYF6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MYNN	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MYOD1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MYOG	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MYT1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	MYT1L	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NANOG	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000111704	ENSG00000111704	
+atlas_all_cells_top10	NEUROD1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NEUROD6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NEUROG2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NFATC1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NFATC2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NFATC3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NFE2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NFE2L3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NFIA	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NFIB	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NFIL3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NFIX	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NFKB1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NFKB2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NFRKB	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000170322	ENSG00000170322	ENSG00000170322
+atlas_all_cells_top10	NHLH1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NHLH2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NKX2-1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NKX2-2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NKX2-3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NKX2-5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NKX3-1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NPAS2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NPAS3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NR0B1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NR0B2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NR1H3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NR1H4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NR1I2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NR1I3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NR2E1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NR2F6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NR4A1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NR4A3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	NR5A2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	OLIG1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	OLIG2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ONECUT1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ONECUT2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	OSR1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	OSR2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	OTP	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	OTX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	OVOL1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PATZ1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PAX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PAX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PAX3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PAX5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PAX6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PAX7	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PAX8	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PAX9	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PBX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PBX4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PEG3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PGR	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PITX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PITX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PKNOX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	POU1F1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	POU2F2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	POU2F3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	POU3F2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	POU4F1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	POU4F2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	POU5F1B	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000212993	ENSG00000212993	
+atlas_all_cells_top10	PPARG	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PRDM1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PRDM2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PROX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PRRX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PRRX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PTTG1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	PURA	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RARA	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RBPJ	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RBPJL	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RCAN1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	REL	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RELA	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RFX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RFX3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RFX4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RFX6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RNF141	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RORA	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RORB	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RUNX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RUNX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	RUNX3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SALL1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SALL4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SATB1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SATB2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SCRT1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SHOX	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SHOX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SIM1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SIM2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SIX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SIX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SIX3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SIX4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SIX5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SIX6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SLC2A4RG	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SMAD2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SMAD3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SMAD6	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SNAI1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SNAI2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SNAI3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SNAPC1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000023608	ENSG00000023608	ENSG00000023608
+atlas_all_cells_top10	SOHLH2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SOX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SOX10	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SOX11	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SOX15	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SOX17	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SOX18	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SOX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SOX3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SOX30	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SOX4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SOX5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SOX7	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SOX8	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SP140	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SP3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SP7	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SP8	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SPDEF	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SPI1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SPIB	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	SPZ1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ST18	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	STAT1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	STAT4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TAF12	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TAF13	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TAF4B	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TAF5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000148835	ENSG00000148835	ENSG00000148835
+atlas_all_cells_top10	TAL1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TAL2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TBR1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TBX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TBX15	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TBX19	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TBX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TBX21	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TBX3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TBX5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TCF15	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TCF21	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TCF3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TCF7	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TCF7L2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TCFL5	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TEAD4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TFAM	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000108064	ENSG00000108064	ENSG00000108064
+atlas_all_cells_top10	TFAP2A	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TFAP2B	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TFAP2C	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TFCP2L1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TFDP1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000198176	ENSG00000198176	ENSG00000198176
+atlas_all_cells_top10	TFDP2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TFDP3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TFEC	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	THRA	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	THRB	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TLX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TLX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TP53	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TP63	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TP73	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TRIM22	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TRIM29	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TRPS1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TSC22D3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TSHZ2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TUB	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TWIST1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	TWIST2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	VDR	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	WT1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	XBP1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	YBX2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZBTB25	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZBTB32	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZBTB33	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZBTB7A	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZEB1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZEB2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZFAT	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZFHX4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZFP36L2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZFP42	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZFY	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZGPAT	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZIC1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZIC2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZIC3	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF117	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF131	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF165	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF193	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF215	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF23	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF238	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF24	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	covered_exact	ENSG00000172466	ENSG00000172466	ENSG00000172466
+atlas_all_cells_top10	ZNF267	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF277	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF281	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF33B	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF367	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF396	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF536	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF639	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF85	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNF93	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZNFX1	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZSCAN10	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZSCAN2	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_all_cells_top10	ZSCAN4	DAlessio2015_TableS1	union of top-ten TF entries across 233 cell/tissue columns	not_in_target_panel			
+atlas_erythroblast_top10	E2F2	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroblast_top10	E2F8	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroblast_top10	GATA1	DAlessio2015_TableS1	author top ten; complete stage panel	covered_exact	ENSG00000102145	ENSG00000102145	ENSG00000102145
+atlas_erythroblast_top10	GFI1B	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroblast_top10	KLF1	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroblast_top10	MYBL2	DAlessio2015_TableS1	author top ten; complete stage panel	covered_exact	ENSG00000101057	ENSG00000101057	ENSG00000101057
+atlas_erythroblast_top10	NFE2	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroblast_top10	PTTG1	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroblast_top10	TAL1	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroblast_top10	TFDP1	DAlessio2015_TableS1	author top ten; complete stage panel	covered_exact	ENSG00000198176	ENSG00000198176	ENSG00000198176
+atlas_erythrocyte_top10	CEBPG	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythrocyte_top10	DDIT3	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythrocyte_top10	GFI1B	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythrocyte_top10	HES6	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythrocyte_top10	KLF1	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythrocyte_top10	NFE2	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythrocyte_top10	PTTG1	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythrocyte_top10	TSC22D3	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythrocyte_top10	ZNF165	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythrocyte_top10	ZNF23	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroid_progenitor_top10	E2F8	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroid_progenitor_top10	GATA1	DAlessio2015_TableS1	author top ten; complete stage panel	covered_exact	ENSG00000102145	ENSG00000102145	ENSG00000102145
+atlas_erythroid_progenitor_top10	GFI1B	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroid_progenitor_top10	HES6	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroid_progenitor_top10	KLF1	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroid_progenitor_top10	MYB	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroid_progenitor_top10	NFE2	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroid_progenitor_top10	PTTG1	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroid_progenitor_top10	TAL1	DAlessio2015_TableS1	author top ten; complete stage panel	not_in_target_panel			
+atlas_erythroid_progenitor_top10	TFDP1	DAlessio2015_TableS1	author top ten; complete stage panel	covered_exact	ENSG00000198176	ENSG00000198176	ENSG00000198176
+atlas_erythroid_stages_top10_union	CEBPG	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+atlas_erythroid_stages_top10_union	DDIT3	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+atlas_erythroid_stages_top10_union	E2F2	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+atlas_erythroid_stages_top10_union	E2F8	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+atlas_erythroid_stages_top10_union	GATA1	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	covered_exact	ENSG00000102145	ENSG00000102145	ENSG00000102145
+atlas_erythroid_stages_top10_union	GFI1B	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+atlas_erythroid_stages_top10_union	HES6	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+atlas_erythroid_stages_top10_union	KLF1	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+atlas_erythroid_stages_top10_union	MYB	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+atlas_erythroid_stages_top10_union	MYBL2	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	covered_exact	ENSG00000101057	ENSG00000101057	ENSG00000101057
+atlas_erythroid_stages_top10_union	NFE2	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+atlas_erythroid_stages_top10_union	PTTG1	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+atlas_erythroid_stages_top10_union	TAL1	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+atlas_erythroid_stages_top10_union	TFDP1	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	covered_exact	ENSG00000198176	ENSG00000198176	ENSG00000198176
+atlas_erythroid_stages_top10_union	TSC22D3	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+atlas_erythroid_stages_top10_union	ZNF165	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+atlas_erythroid_stages_top10_union	ZNF23	DAlessio2015_TableS1	union of three explicit erythroid-stage top-ten lists	not_in_target_panel			
+erythroid_GTLM_plus_maturation	GATA1	Capellera-Garcia2016	GTLM plus separately reported maturation additions	covered_exact	ENSG00000102145	ENSG00000102145	ENSG00000102145
+erythroid_GTLM_plus_maturation	KLF1	Capellera-Garcia2016	GTLM plus separately reported maturation additions	not_in_target_panel			
+erythroid_GTLM_plus_maturation	LMO2	Capellera-Garcia2016	GTLM plus separately reported maturation additions	not_in_target_panel			
+erythroid_GTLM_plus_maturation	MYB	Capellera-Garcia2016	GTLM plus separately reported maturation additions	not_in_target_panel			
+erythroid_GTLM_plus_maturation	MYC	Capellera-Garcia2016	GTLM plus separately reported maturation additions	covered_exact	ENSG00000136997	ENSG00000136997	ENSG00000136997
+erythroid_GTLM_plus_maturation	TAL1	Capellera-Garcia2016	GTLM plus separately reported maturation additions	not_in_target_panel			
+erythroid_minimal_GTLM	GATA1	Capellera-Garcia2016	minimal conversion cocktail	covered_exact	ENSG00000102145	ENSG00000102145	ENSG00000102145
+erythroid_minimal_GTLM	LMO2	Capellera-Garcia2016	minimal conversion cocktail	not_in_target_panel			
+erythroid_minimal_GTLM	MYC	Capellera-Garcia2016	minimal conversion cocktail	covered_exact	ENSG00000136997	ENSG00000136997	ENSG00000136997
+erythroid_minimal_GTLM	TAL1	Capellera-Garcia2016	minimal conversion cocktail	not_in_target_panel			

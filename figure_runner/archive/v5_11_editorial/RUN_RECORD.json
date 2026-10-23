@@ -1,0 +1,18 @@
+{
+  "version": "5.10",
+  "status": "COMPLETE_EDITORIAL_FIXES_AND_INDEPENDENCE_BENCHMARK",
+  "active_figures": 6,
+  "graphic_outputs": 18,
+  "models_fitted": false,
+  "new_significance_tests": false,
+  "new_descriptive_calculation": "Marginal-preserving independent-sign expectation",
+  "expected_opposite_percent": [
+    46.316893839150744,
+    46.16521713064666
+  ],
+  "observed_opposite_percent": [
+    41.60095579450418,
+    40.66905615292712
+  ],
+  "AD_transfer": "Retained separately; no new AD claim"
+}

@@ -1,0 +1,5 @@
+direction	orientation	passed	max_abs_error
+MCF7_to_PC3	0	True	1.0658141036401503e-13
+MCF7_to_PC3	1	True	1.4210854715202004e-13
+PC3_to_MCF7	0	True	1.4210854715202004e-13
+PC3_to_MCF7	1	True	1.0658141036401503e-13
